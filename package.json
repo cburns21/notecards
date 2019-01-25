@@ -1,0 +1,23 @@
+{
+  "name": "notecards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cburns21/notecards.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cburns21/notecards/issues"
+  },
+  "homepage": "https://github.com/cburns21/notecards#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
